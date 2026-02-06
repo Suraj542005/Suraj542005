@@ -35,7 +35,7 @@ I love turning ideas into real products and continuously pushing my technical li
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,java,cpp,python,js,react,nodejs,threejs,unity,unreal,blender,mongodb,mysql,firebase,html,css,tailwind,bootstrap,git,github,docker,linux,vscode,postman,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,js,react,nodejs,threejs,unity,unreal,blender,mongodb,mysql,firebase,html,css,tailwind,bootstrap,git,github,docker,linux,vscode,postman,figma&perline=10" />
 </p>
 
 ---
@@ -50,11 +50,11 @@ I love turning ideas into real products and continuously pushing my technical li
 
 <div align="center">
 
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=Suraj542005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=Suraj542005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" /> -->
 
 <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj542005&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj542005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<!-- <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj542005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" /> -->
 
 </div>
 
@@ -63,13 +63,17 @@ I love turning ideas into real products and continuously pushing my technical li
 ## 🔗 Connect with Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/suraj-shailesh-jagtap/" target="_blank">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:surajsjagtap5000@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
