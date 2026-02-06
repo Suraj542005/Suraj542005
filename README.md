@@ -1,18 +1,91 @@
-# 💫 About Me:
-👋 Hi, I'm Suraj — a passionate B.Tech CSE student exploring the world of technology.<br><br>💻 I love building interactive web apps, 3D experiences, and games.<br>🌱 Currently diving deeper into ML and AI-powered applications.<br>📦 Check out my repositories for full-stack projects, AI/ML Projects, game dev prototypes, and 3D models!<br>🛠️ Skills: Python | JavaScript | React | HTML/CSS | Unity | C | Blender<br><br>🚀 I don't follow the Blueprints, I buit my Own!<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-shailesh-jagtap/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajsjagtap5000@gmail.com) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Suraj542005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Suraj542005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj542005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Suraj%20Jagtap&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Future%20Founder&descAlignY=55&descColor=ffffff"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Games+and+Software+that+Matter;Microsoft+Software+Engineering+Intern;Exploring+AI+%2B+Game+Development;Turning+Ideas+into+Reality+🚀"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Suraj542005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Suraj542005&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Suraj542005?style=for-the-badge&color=blue&label=FOLLOWERS" />
+    <img src="https://img.shields.io/github/stars/Suraj542005?style=for-the-badge&color=yellow&label=STARS" />
+</p>
+
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" />
+
+---
+
+## 👨‍💻 About Me
+
+🚀 Software Engineering Intern @ Microsoft (Summer 2026)  
+🎮 Passionate about Game Development & Creative Software Projects  
+🧠 Exploring AI, Web Development, and 3D Interactive Systems  
+🔥 Future founder building toward a game development company
+
+I love turning ideas into real products and continuously pushing my technical limits.
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cs,java,cpp,python,js,react,nodejs,threejs,unity,unreal,blender,mongodb,mysql,firebase,html,css,tailwind,bootstrap,git,github,docker,linux,vscode,postman,figma&perline=10" />
+</p>
+
+---
+
+## ⚡ Stats
+
+<!-- <div align="center">
+  <img width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj542005&theme=react&border_radius=10"/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api?username=Suraj542005&show_icons=true&theme=react&border_radius=10"/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj542005&layout=compact&theme=react&border_radius=10"/>
+</div> -->
+
+<div align="center">
+
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=Suraj542005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj542005&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj542005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/suraj-shailesh-jagtap/" target="_blank">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
+</a>
+
+<a href="mailto:surajsjagtap5000@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
+</a>
+</p>
+
+---
+
+## 🐍 Contribution 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
+</div>
+
+
+
