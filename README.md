@@ -1,6 +1,4 @@
 
-
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Suraj%20Jagtap&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Game%20Developer%20%7C%20Future%20Founder&descAlignY=55&descColor=ffffff"/>
 </p>
@@ -63,17 +61,7 @@ I love turning ideas into real products and continuously pushing my technical li
 ## 🔗 Connect with Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/suraj-shailesh-jagtap/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:surajsjagtap5000@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="https://www.linkedin.com/in/suraj-shailesh-jagtap/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:surajsjagtap5000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -90,6 +78,3 @@ I love turning ideas into real products and continuously pushing my technical li
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
 </div>
-
-
-
