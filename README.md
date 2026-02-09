@@ -51,7 +51,7 @@ I love turning ideas into real products and continuously pushing my technical li
 <!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=Suraj542005&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" /> -->
 <!-- <img width=325 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Suraj542005&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
 <!-- <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj542005&theme=tokyonight&hide_border=true&cache_seconds=1800" /> -->
-<img width=325 src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj542005&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="streak stats"/>
+<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj542005&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="streak stats"/>
 
 
 <!-- <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj542005&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" /> -->
